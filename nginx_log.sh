@@ -4,7 +4,7 @@
 LOCKFILE="/tmp/lock"
 
 # Путь к файлу с логами веб-сервера/приложения
-LOG_FILE="/var//log/nginx/access.log"
+LOG_FILE="/var/log/nginx/access.log"
 
 # Email адрес, на который будет отправлено письмо
 EMAIL="admin@admin.ru"
